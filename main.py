@@ -33,7 +33,7 @@ paddle_h = 75
 paddle_w = 10
 
 # Declare Font
-path = Path('C:\\').joinpath('Users').joinpath('Noah').joinpath('Desktop').joinpath('Stuff').joinpath('Portfolio Projects').joinpath('Pong').joinpath('Grand9K Pixel.ttf')
+path = 'Grand9K Pixel.ttf'
 font = pg.font.Font(path, 16)
 lg_font = pg.font.Font(path, 30)
 huge_font = pg.font.Font(path, 50)
